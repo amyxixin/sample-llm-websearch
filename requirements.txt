@@ -1,0 +1,4 @@
+langchain-community
+html2text
+json
+os
